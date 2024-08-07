@@ -1,4 +1,4 @@
-import {FormRow,Logo} from '../Components';
+import {FormRow} from '../Components';
 import Wrapper from '../assets/wrappers/RegisterAndLoginPage';
 import { Form, redirect, useNavigation, Link } from 'react-router-dom';
 import customFetch from '../utils/customFetch.js';

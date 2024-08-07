@@ -1,7 +1,7 @@
 import React from 'react'
 import {FaAlignLeft} from 'react-icons/fa';
 import Wrapper from '../assets/wrappers/Navbar';
-import Logo from './Logo';
+
 import { useDashboardContext } from '../pages/DashboardLayout';
 import LogoutContainer from './Logout';
 import { Link } from 'react-router-dom';
