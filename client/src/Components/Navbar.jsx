@@ -12,7 +12,7 @@ const Navbar = () => {
     <Wrapper>
       <div className='nav-center'>
         <div>
-            <Logo/>
+           
             <h4 className='logo-text'>dashboard</h4>
         </div>
 
